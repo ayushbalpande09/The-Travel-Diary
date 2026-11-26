@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+.classic-heading, .brand-logo {
+  font-family: 'Playfair Display', serif;
+}
+
+.brand-logo {
+  font-size: 1.5rem;
+  color: #1f4e3d !important;
+}
+
+.btn-brand {
+  background-color: #1f4e3d;
+  color: #fff;
+}
+
+.btn-brand:hover {
+  background-color: #16382c;
+  color: #fff;
+}
+
+.hero-section {
+  background-color: #f8f6f2;
+}
+
+.figma-wrapper {
+  max-width: 400px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #ddd;
+}
